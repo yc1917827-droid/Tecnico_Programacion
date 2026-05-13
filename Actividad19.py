@@ -1,4 +1,4 @@
-print("-------------------------------------")
+print("Hello")
 print("Bienvenidos al programa S&S")
 
 opcion = 0
