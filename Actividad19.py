@@ -1,4 +1,5 @@
 print("Hello")
+#Este programa es un menú con opciones para ingresar datos y realizar operaciones matemáticas basicas. El usuario puede elegir entre ingresar su nombre y edades, o realizar sumas y multiplicaciones con dos números. El programa se ejecuta en un bucle hasta que el usuario decide salir.
 print("Bienvenidos al programa S&S")
 
 opcion = 0
